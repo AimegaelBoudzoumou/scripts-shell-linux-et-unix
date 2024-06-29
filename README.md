@@ -6,7 +6,7 @@ Voici le [lien vers le site web du livre](https://www.blaess.fr/christophe/livre
 
 Ce document est structuré de cette manière :  
 
-Un  chapitre du livre est représenté par un répertoire dans ce projet/dépôt GitHub.  
+Un  chapitre du livre est représenté par un répertoire dans ce projet/dépôt GitHub.
 
 Dans chaque répertoire, se trouve un ou des fichiers shell. 
 
